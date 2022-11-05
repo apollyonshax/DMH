@@ -32,12 +32,12 @@ https://templatemo.com/tm-538-digital-trend
   /* #0c8195 */
   /* rgb(6, 6, 85); */
   :root {
-    --primary-color:        #0fa3bd;
-    --secondary-color:      #f1c111;
+    --primary-color:        #262262 ;
+    --secondary-color:      #f2b90c;
     --white-color:          #ffffff;
     --dark-color:           #171819;
     --project-bg:           #f0f8ff;
-    --menu-bg:              #0fa3bd;
+    --menu-bg:              #262262;
 
     --title-color:          #15141a;
     --gray-color:           #909090;
